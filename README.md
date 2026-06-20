@@ -15,7 +15,7 @@ This pipeline reduces that to a few hours — mostly automated.
 2. **AI sorts by JD** — Claude reads each profile and matches it against the job description upto 70%.
 3. **Auto-message sent** — shortlisted candidates get an invite to fill a screening form
 4. **Candidate fills form** — structured questions relevant to the role
-5. **App script reviews responses** — App script evaluates answers and decides: Shortlist / Review / Reject
+5. **Reviews responses** — App script evaluates answers and decides: Shortlist / Review / Reject
 6. **Nightly HR email** — HR gets a summary of all results every evening
 7. **Calendar auto-booked** — shortlisted candidates get an interview slot
 8. **Interview reminder** — candidate and the HR gets an automatic reminder on the day
